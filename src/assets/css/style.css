@@ -7,14 +7,14 @@ text-align: center;
 input[type="text"] {
     width: 10%;
     padding: 12px 1px;
-    display: inline-block;
+    display: block;
     border-radius: 5px;
     box-sizing: border-box;
 }
 input[type="email"] {
     width: 10%;
     padding: 12px 1px;
-    display: inline-block;
+    display: block;
     border-radius: 5px;
     box-sizing: border-box;
 }
@@ -34,4 +34,14 @@ input[type="submit"] {
     text-align: center;
     font-size: large;
     border-radius: 15px;
+}
+label{
+    width: 10%;
+    padding: 12px 1px;
+    display: block;
+}
+textarea{
+    width: 10%;
+    padding: 12px 1px;
+    display: block;
 }
