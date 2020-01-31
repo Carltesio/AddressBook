@@ -5,16 +5,16 @@ text-align: center;
 }
 
 input[type="text"] {
-    width: 10%;
+    width: 30%;
     padding: 12px 1px;
-    display: block;
+    display: inline-table;
     border-radius: 5px;
     box-sizing: border-box;
 }
 input[type="email"] {
-    width: 10%;
+    width: 30%;
     padding: 12px 1px;
-    display: block;
+    display: inline-table;
     border-radius: 5px;
     box-sizing: border-box;
 }
@@ -37,11 +37,11 @@ input[type="submit"] {
 }
 label{
     width: 10%;
-    padding: 12px 1px;
+    padding: 12px 850px;
     display: block;
 }
 textarea{
     width: 10%;
     padding: 12px 1px;
-    display: block;
+    display: inline-table;
 }
