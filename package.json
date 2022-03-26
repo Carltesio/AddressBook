@@ -10,7 +10,7 @@
   "dependencies": {
     "browser-sync": "^2.26.7",
     "superstatic": "^6.0.4",
-    "minimist": "1.2.3"
+    "minimist": "1.2.6"
   },
   "scripts": {
     "start": "superstatic src --port 3001",
